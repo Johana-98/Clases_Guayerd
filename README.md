@@ -1,2 +1,2 @@
 # Guayerd-Clase1
-Clase 1 del curso de Front-End
+Clases del curso de Front-End en la Academia Guayerd
