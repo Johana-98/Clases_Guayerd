@@ -1,2 +1,2 @@
-# Guayerd-Clase1
+# Guayerd-Clases
 Clases del curso de Front-End en la Academia Guayerd
